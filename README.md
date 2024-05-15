@@ -79,7 +79,8 @@ The dataset used for making this model is taken from online challange website. H
 
 * Down Below is the predicticed output:
   
-![Prediction using HQCNN](https://github.com/Tani2189/Cancer-Image-Classifier-Using-HQCNN/assets/96855667/c8eae047-3377-4595-a40a-16d67a64e51f)
+![image](https://github.com/Tani2189/Cancer-Image-Classifier-Using-HQCNN/assets/96855667/68468e99-4f25-4320-b89b-d556768e2332)
+
 
 # Referances:
 * [Hybrid quantum-classical Neural Networks with PyTorch and Qiskit: https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit](https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html)
