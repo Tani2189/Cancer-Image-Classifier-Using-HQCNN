@@ -68,12 +68,17 @@ The dataset used for making this model is taken from online challange website. H
 
 >Forth Step:
 * Now With the help of pytorch we'll be Making QCNN model.
+  
 * Overall, here the code defines a neural network architecture that interacts with a quantum and convolutional neural network for some task, here we're using image classification.
+  
 ![Parameters](https://github.com/Tani2189/Cancer-Image-Classifier-Using-HQCNN/assets/96855667/a5024662-bbf7-412d-9c3e-693497980e46)
+
 * After that we print the accuracy graph with an train data accuracy of 99.82%
+  
 ![HQCNN Accuracy graph](https://github.com/Tani2189/Cancer-Image-Classifier-Using-HQCNN/assets/96855667/f4ddfa5d-1d95-464f-ab2c-55ca9b1b46c3)
 
 * Down Below is the predicticed output:
+  
 ![Prediction using HQCNN](https://github.com/Tani2189/Cancer-Image-Classifier-Using-HQCNN/assets/96855667/c8eae047-3377-4595-a40a-16d67a64e51f)
 
 # Referances:
