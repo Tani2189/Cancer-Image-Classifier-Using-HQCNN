@@ -55,7 +55,7 @@ The dataset used for making this model is taken from online challange website. H
 ![ZZfeature Map](https://github.com/Tani2189/Cancer-Image-Classifier-Using-HQCNN/assets/96855667/939d331e-d5ca-4c55-9ad1-699d10bd5082)
 
 ![ZZFeatureMap Graph or  Second-order Pauli-Z evolution circuit](https://github.com/Tani2189/Cancer-Image-Classifier-Using-HQCNN/assets/96855667/b41e2219-4851-4dac-bd6d-9279d49e8055)
-* Here we are initalizing a ZZ feature map and a Second-order Pauli-Z evolution circuit.
+* Here we are initalizing a ZZ feature map or a Second-order Pauli-Z evolution circuit.
 * why are we using it, because first reason is Space Efficiency which encodes the data using fewer qubits and second reason is Potential Quantum Advantage which may outperform classical methord for large datasets.
   
 # Quantum Entanglement Check:
